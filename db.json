@@ -1,0 +1,37 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "Example Article",
+        "content": "This is an example."
+      },
+      {
+        "id": 2,
+        "title": "Second Article",
+        "content": "This is also an example."
+      },
+      {
+        "title": "Third Article",
+        "content": "Another example!",
+        "id": 3
+      }
+    ],
+    "newMenu": [
+        {
+          "id":1,
+          "burger":"chicken burger"
+        },
+        {
+          "id":2,
+          "burger":"veggie burger"
+        },
+        {
+          "id":3,
+          "burger":"wild salmon burger"
+        }
+       ]
+  }
+
+
+    
+     
